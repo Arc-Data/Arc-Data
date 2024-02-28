@@ -3,6 +3,6 @@ I am constantly seeking improvement and I mainly use Django and Javascript and I
 My goal is to become a Backend Web Developer who can occassionally do Frontend stuff if needed. 
 Looking forward to learning NodeJs in the meantime. 
 
-- 🔭 I’m currently working on our Itinerary Recommender Project.
+- 🔭 I’m currently working on my Personal Portfolio Website.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dream of being able to live in Japan
